@@ -1,0 +1,141 @@
+body{
+    background-color: #eee;
+}
+
+#master{
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: white
+}
+
+header{
+    background-color: rgba(0, 0, 255, 0.8);
+    width: 960px;
+    height:150px
+}
+
+
+
+#logo{
+    background-color: yellow;
+    width: 300px;
+    height: 150px
+}
+
+nav{
+    background-color: rgb(3, 13, 15);
+    width: 960px;
+    height:50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: green;
+    display: inline-block;
+    font-weight: bold;
+}
+
+nav ul{
+    list-style: none;
+
+    
+}
+
+nav li{
+    float: left;
+    margin-left: 40px;
+    
+    
+}
+
+article{
+    background-color: rgba(250, 250, 253, 0.8);
+    width: 960px;
+    height:200px
+}
+
+.FeatureBox{
+    background-color: #0909DD;
+    color: white;
+    margin-right: 6px;
+    width:315px;
+    height: 200px;
+    float: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+}
+
+.FeatureBoxImage{
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    width: 300px;
+    height:50px;
+
+}
+
+footer{
+    background-color: rgba(1, 1, 7, 0.8);
+    color: white;
+    width: 960px;
+    height:50px;
+    clear: both;
+    display: inline-block
+    
+}
+footer ul{
+    list-style: none;
+    
+}
+
+footer li{
+    float: left;
+    margin-right: 10px;
+    margin-left: 70px;
+    
+}
+
+.orangeQuotes{
+    color: #F08811;
+}
+
+.pinkHeading{
+    color: #DF056B;
+}
+
+table{
+    border: 1px bold black;
+}
+table tr th{
+    background-color:black;
+    color:green;
+    font-weight:bold;
+    text-align: center
+}
+
+table tr td{
+    background-color:#5C5C97;
+    color:black;
+    font-weight:bold;
+    padding: 3px;
+   
+}
+
+
+
+.form-all
+
+{
+
+width:198px !important;
+
+height:208px !important;
+
+}
+
